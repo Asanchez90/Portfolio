@@ -1,0 +1,23 @@
+footer {
+  /* border: 2px solid red; */
+  min-height: 6vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+footer > nav {
+  display: flex;
+  
+  flex-wrap: wrap;
+
+}
+
+footer > nav > ul {
+  display: flex; 
+  list-style: none;  
+  gap: 16px;
+  cursor: pointer;
+}
+
+

@@ -1,0 +1,31 @@
+/* margin top 50 para moviles */
+.home{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    
+    
+  }
+  
+  /* cambiar tamaños para ipad y ordenador  */
+  main img {
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    padding: 3px;
+    object-fit: contain;
+    
+    
+    background: var(--highlight-gracient);
+  }
+
+  .home  {
+    font-size: 2rem;
+  }
+  .home p {
+    font-size: 1rem;
+  }
