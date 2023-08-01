@@ -35,10 +35,8 @@ export const projectsData =
         titulo: "Proyecto 1.2",
         subtitulo: "Landing page",
         descripcion: `Para el segundo proyecto, el enfoque principal era hacer una tienda dinámica. Para implementar los conocimientos 
-        aprendidos de JavaScript, los productos debían generarse en HTML de manera dinámica y tendríamos un filtro para que el 
-        “cliente” pudiese ver los productos que solamente le interesaban. En este caso, me enfoque en que el filtro de 
-        los productos de la “supuesta tienda” funcionara de manera correcta, sin importar la forma en que sean buscados. 
-        Adicional a esto, agregue un mensaje para indicarle al usuario en caso de que no hubiera productos en el rango que hiciera la búsqueda.`,
+        aprendidos de JavaScript, los productos debían generarse en JS de manera dinámica y tendríamos dos filtro para que el 
+        “cliente” pudiese ver los productos que solamente le interesaban y ademas añadiendo un mensaje para  el usuario en caso de salirse de rango de busqueda.`,
         tecnologia: [
             "public/icono-html.png", 
             "public/icono-css.png"

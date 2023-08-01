@@ -17,6 +17,7 @@
 .img-project {
     height: 300px;
     width: 600px;
+    margin-top: 16px;
     /* -webkit-box-shadow: 0px 0px 22px 6px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 0px 22px 6px rgba(0,0,0,0.75);
     box-shadow: 0px 0px 22px 6px rgba(0,0,0,0.75); */
@@ -32,7 +33,7 @@
     transition: filter 0.8s ease-in-out;
 } */
 .card-right {
-    padding: 16px 32px;
+    padding: 16px;
     /* width: 40%; */
     
 }
@@ -46,75 +47,82 @@
     gap: 1rem;
 }
 
-.card-left > a {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    margin-top: 0.5rem;
-    gap: 1rem;
-}
-
-
 
 .container-tech {
     display: flex;
-    justify-content: flex-end;
-    gap: 1rem;
-    margin-top: 3rem;
-    margin-bottom: 1rem;
-    position: absolute;
-    right: 1rem;
-    bottom: 0;
-    ;
-}
-
-.link-icon {
-    width: 48px;
-    height: 48px;
-    /* filter: invert(99%) sepia(19%) saturate(3512%) hue-rotate(299deg) brightness(98%) contrast(85%); */
-    transition: transform 0.3s;
-}
-
-.link-icon:hover {
-    transform: scale(1.1);
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    bottom: 0;   
 }
 
 .icon-tech {
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
 
 
-
 hr {
     height: 5px;
     background-color: var(--color-contrast);
-    margin-bottom: 1.5rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .card-right > p {
     font-weight: 100;
     text-align: justify;
     color: white;
+    padding: 35px;
+    
 }
 
 .info-project {
     color: #ffffff;
     font-size: 15px;
     padding: 4px;
-    -webkit-border-radius: 29px;
-    -moz-border-radius: 29px;
-    border-radius: 29px;
+    /* -webkit-border-radius: 29px;
+    -moz-border-radius: 29px; */
+    /* border-radius: 29px; */
     /* -webkit-box-shadow: 0px 0px 0px #666666;
     -moz-box-shadow: 0px 0px 0px #666666;
     box-shadow: 0px 0px 0px #666666; */
-    border: solid var(--color-contrast) 9px;
-    background-color: var(--color-contrast);
-    display: none;
+    /* border: solid var(--color-contrast) 9px; */
+    /* background-color: var(--color-contrast); */
+    /* display: none; */
 }
+
+.info-card{
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.link-icon {
+    width: 32px;
+    height: 32px;
+    transition: transform 0.3s;
+       
+}
+
+.link-icon:hover {
+    transform: scale(1.1);
+}
+
+.a-card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.a-card > a{
+    display: flex;
+    gap: 16px;
+    padding: 16px;
+    align-items: center;
+}
+
 
 @keyframes show {
     from{
