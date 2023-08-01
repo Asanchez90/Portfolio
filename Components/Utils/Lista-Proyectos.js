@@ -1,11 +1,11 @@
 
 
-export const ListaProyectosAle = 
+export const projectsData = 
 
 [
   {//listo
     img: "/public/meme.png",
-        titulo: "Proyecto 1",
+        titulo: "Proyecto 1 Rock{TheCode}",
         subtitulo: "Landing page",
         descripcion: `El principal objetivo de este proyecto es realizar una landing page. Implementé todo lo aprendido 
         en las clases de HTML y CSS, además tuve la oportunidad de practicar la maquetación y que sea una web responsive. 
@@ -63,12 +63,12 @@ export const ListaProyectosAle =
   },
   {
     //listo
-    img: "/projects-img/img-proyecto-pantone.png",
-    title: "Proyecto Color Flipper",
-    goal: "Manejo conocimientos JS",
-    description: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
+    img: "/public/meme.png",
+    titulo: "Proyecto Color Flipper",
+    subtitulo: "Manejo conocimientos JS",
+    descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
     pudiendo implementar los cambios directamente en el HTML.`,
-    tech: [
+    tecnologia: [
         "public/icono-html.png", 
         "public/icono-css.png",
         "public/icono-js.png", 

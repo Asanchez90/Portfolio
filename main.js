@@ -3,7 +3,7 @@ import { Header } from "./Components/Header/Header"
 import { Footer } from "./Components/Footer/Footer"
 // paginas
 import { Home } from "./Components/Pages/Home/Home"
-import { Proyectos } from "./Components/Pages/Proyectos/Proyectos"
+import { Project } from './Components/Pages/Proyectos/Proyectos'
 import { SobreMi } from "./Components/Pages/Sobre-mi/Sobre-mi"
 
 //Funcionalidad
@@ -18,16 +18,18 @@ document.querySelector('.nav-header').innerHTML = Header();
 document.querySelector('.nav-footer').innerHTML = Footer();
 
 //por defecto, lo primero que se pinta es la pagina home 
-Home();
+Project();
 
+
+//aqui podriamos hacer una funcion de link que me recoja el id y me la ejecute
 document.querySelector("#home-link").addEventListener("click", () => {
     Home();
 });
 
 
-document.querySelector("#proyectos-link").addEventListener("click", () => {
-    Proyectos();
-});
+// document.querySelector("#proyectos-link").addEventListener("click", () => {
+//     Project();
+// });
 
 document.querySelector("#personal-link").addEventListener("click", () => {
     SobreMi();
