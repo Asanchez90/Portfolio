@@ -8,7 +8,7 @@ export const Project = () => {
     const main = document.querySelector("main");
     main.innerHTML = `
     <section class="container">
-        <h4>Proyectos</h4>
+        <h2 class="Tittle">Proyectos</h2>
         <article class="container-project">
         ${projectsData.map((el) => 
           {

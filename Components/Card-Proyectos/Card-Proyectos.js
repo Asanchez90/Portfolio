@@ -16,7 +16,7 @@ export const CardProyectos = (
         
       <div class="card-left">
         
-        <div>
+        <div class="card-img-main">
           <img class="img-project" src=${img} alt=${subtitulo} />
         </div>
         <div class="container-tech">

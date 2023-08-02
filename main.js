@@ -18,7 +18,7 @@ document.querySelector('.nav-header').innerHTML = Header();
 document.querySelector('.nav-footer').innerHTML = Footer();
 
 //por defecto, lo primero que se pinta es la pagina home 
-Project();
+Home();
 
 
 //aqui podriamos hacer una funcion de link que me recoja el id y me la ejecute
@@ -27,9 +27,9 @@ document.querySelector("#home-link").addEventListener("click", () => {
 });
 
 
-// document.querySelector("#proyectos-link").addEventListener("click", () => {
-//     Project();
-// });
+document.querySelector("#proyectos-link").addEventListener("click", () => {
+    Project();
+});
 
 document.querySelector("#personal-link").addEventListener("click", () => {
     SobreMi();
