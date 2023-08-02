@@ -6,6 +6,8 @@ export const Header = () => {
     <nav>
       <h2> Alejandro Sánchez </h2>
       
+     
+
       <ul class="navbar">
         <li>
           <a href="#" id="home-link">Inicio</a>
@@ -16,29 +18,20 @@ export const Header = () => {
         <li>
           <a href="#" id="personal-link">Sobre mi</a>
         </li>
-        <li>
-          <a href="#">
-            <img src="public/icons/github-color.png" alt" Github icon">
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <img src="public/icons/linkedin-cuadrado.png" alt" Linkedin icon">
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <img src="public/icons/gorjeo-cuadrado.png" alt" Twitter icon">
-          </a>
-        </li>
-      </ul>
-    </nav>
+        <button id="themeBtn">☀️</button>
+        </ul>
+        </nav>
 `;
 };
 
 const template = Header();
 
 
-{/* <label for="chkToggle" class="navbar-toggle" id="js-navbar-toggle"><img src="./public/toggle-navbar-sin-fondo.png" alt=""></label>
-<h1 class="logo">Tu tienda de informática </h1>
-<input type="checkbox" id="chkToggle"> */}
+{/* 
+<label for="chkToggle" class="navbar-toggle" id="js-navbar-toggle">
+  <img class="menu-movil" src="./public/toggle-navbar-sin-fondo.png" alt="menu-movil" width="30px" height="30px">
+</label>
+
+<input type="checkbox" id="chkToggle"> 
+
+  */}

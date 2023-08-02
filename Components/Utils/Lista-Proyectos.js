@@ -39,7 +39,8 @@ export const projectsData =
         “cliente” pudiese ver los productos que solamente le interesaban y ademas añadiendo un mensaje para  el usuario en caso de salirse de rango de busqueda.`,
         tecnologia: [
             "public/icono-html.png", 
-            "public/icono-css.png"
+            "public/icono-css.png",
+            "public/icono-js-sin.png",
         ],
         link: "https://tiendapc.netlify.app/",
         
@@ -55,7 +56,7 @@ export const projectsData =
         tecnologia: [
             "public/icono-html.png", 
             "public/icono-css.png",
-            "public/icono-js.png",
+            "public/icono-js-sin.png",
         ],
         link: "https://etryh.netlify.app/",
   },
@@ -69,7 +70,7 @@ export const projectsData =
     tecnologia: [
         "public/icono-html.png", 
         "public/icono-css.png",
-        "public/icono-js.png", 
+        "public/icono-js-sin.png", 
     ],
     link: "https://colorflipper-asp.netlify.app/",
     
@@ -84,7 +85,7 @@ export const projectsData =
         tecnologia: [
             "public/icono-html.png", 
             "public/icono-css.png",
-            "public/icono-js.png", 
+            "public/icono-js-sin.png", 
         ],
         link: "...",
   },
@@ -98,7 +99,7 @@ export const projectsData =
         tecnologia: [
             "public/icono-html.png", 
             "public/icono-css.png",
-            "public/icono-js.png", 
+            "public/icono-js-sin.png", 
         ],
         link: "https://starwarsapiaps.netlify.app/",
   },

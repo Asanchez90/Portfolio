@@ -7,12 +7,13 @@ import { Project } from './Components/Pages/Proyectos/Proyectos'
 import { SobreMi } from "./Components/Pages/Sobre-mi/Sobre-mi"
 
 //Funcionalidad
-
+import { changeTheme } from './Components/Toggle-light-dark/ChangeTheme'
 
 // inyectamos el template de Header en el elemento header que tenemos en el indexed.html
 
 document.querySelector('.nav-header').innerHTML = Header();
 
+changeTheme();
 
 // inyectamos el template de Footer en el elemento Footer que tenemos en el indexed.html
 document.querySelector('.nav-footer').innerHTML = Footer();

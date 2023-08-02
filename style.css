@@ -17,7 +17,7 @@
 
   /* background-color */
   --rc--bg-color-dark: #191919;
-  --rc--bg-color-light: whitesmoke;
+  --rc--bg-color-light: rgb(202, 196, 196);
   --rc--bg-color-higlight: rgb(2,0,36);
 
   /* color */
@@ -26,6 +26,7 @@
 
   --primary-color-light: #42446e;
   --segundary-color-light: #666666;
+  --terciary-color-light: #000000;
   
   /* cambiar el linear-gradient */
   --highlight-gracient: linear-gradient(
@@ -56,8 +57,11 @@ body{
   padding: 0.5rem 2rem;
 }
 .light{
-  background-color: var(--primary-color-light);
-  color: var(--primary-color-light);
+  background-color: var( --rc--bg-color-light);
+  color: var(--secundary-color-light);
+}
+.light > h3, h4, a, p {
+  color: var(--secundary-color-light);
 }
 
 main{
@@ -68,9 +72,10 @@ main{
   align-items: center;
 }
 
-h3, h4, a, p {
+/* h3, h4, a, p {
   color: var(--secundary-color-dark);
-}
+} */
+
 
 
 span{

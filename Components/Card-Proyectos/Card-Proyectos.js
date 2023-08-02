@@ -19,9 +19,9 @@ export const CardProyectos = (
         <div class="card-img-main">
           <img class="img-project" src=${img} alt=${subtitulo} />
         </div>
-        <div class="container-tech">
+        <p class="container-tech">
           Tecnologias usadas
-        </div> 
+        </p> 
         <div class="container-tech">
           ${tecnologia
             .map(

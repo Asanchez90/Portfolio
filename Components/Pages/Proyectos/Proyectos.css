@@ -85,7 +85,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: white;
+    background: none;
 }
 
 
@@ -238,7 +238,7 @@ img{
     }
     hr {
         height: 5px;
-        width: auto !important;
+        width: auto;
         background-color: var(--color-contrast);
         margin-top: 10px;
         margin-bottom: 10px;

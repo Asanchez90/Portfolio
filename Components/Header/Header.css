@@ -36,9 +36,15 @@ a {
     transition: 0.5s ease-in-out;
 }
 
+header button {
+  background: transparent;
+  border: none;
+  transform: scale(1.5);
+}
+
 /* hacer hamburguer */
 
-.main-nav {
+/* .main-nav {
     display: flex;
     margin-right: 30px;
   
@@ -72,4 +78,4 @@ a {
   .navbar-toggle {
     display: none;
     
-  }
+  } */
