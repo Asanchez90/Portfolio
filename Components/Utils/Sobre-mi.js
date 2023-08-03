@@ -1,1 +1,0 @@
-//poner una lista de arrays con informacion mia

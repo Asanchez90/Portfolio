@@ -70,6 +70,7 @@ main{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  
 }
 
 /* h3, h4, a, p {
@@ -86,6 +87,5 @@ span{
   -webkit-text-fill-color: transparent;
   
 }  
-
 
 

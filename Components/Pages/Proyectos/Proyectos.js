@@ -16,8 +16,11 @@ export const Project = () => {
           }).join("")
         }
         </article>
+        
+        
     </section>
     `
 };
 const template = Project();
-  
+
+

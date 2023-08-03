@@ -4,7 +4,7 @@ export const projectsData =
 
 [
   {//listo
-    img: "/public/meme.png",
+    img: "/public/proyecto-mecataller-logo3.png",
         titulo: "Proyecto 1 Rock{TheCode}",
         subtitulo: "Landing page",
         descripcion: `El principal objetivo de este proyecto es realizar una landing page. Implementé todo lo aprendido 
@@ -14,12 +14,13 @@ export const projectsData =
             "public/icono-html.png", 
             "public/icono-css.png"
         ],
-        link: "https://proyecto1-the-power-mba.netlify.app",
+        // link: "https://mecataller.netlify.app/",
+        // github:"https://github.com/Asanchez90/landing-page",
         
     
   },
   {//listo
-    img: "/public/meme.png",
+    img: "/public/proyecto-semana-santa.png",
         titulo: "Itinerario Semana Santa 2023 Algeciras",
         subtitulo: "Landing page",
         descripcion: `El principal objetivo de este proyecto fue realizar un itinerario de las diferentes cofradias de la ciudad de Algeciras teniendo en cuenta su 
@@ -29,9 +30,10 @@ export const projectsData =
             "public/icono-css.png"
         ],
         link: "https://itinerario2023.netlify.app/",
+        github:"https://github.com/Asanchez90/SemanaSanta2023",
   },
   {//listo
-    img: "/public/meme.png",
+    img: "/public/proyecto-tienda.png",
         titulo: "Proyecto 1.2",
         subtitulo: "Landing page",
         descripcion: `Para el segundo proyecto, el enfoque principal era hacer una tienda dinámica. Para implementar los conocimientos 
@@ -43,11 +45,12 @@ export const projectsData =
             "public/icono-js-sin.png",
         ],
         link: "https://tiendapc.netlify.app/",
+        github:"https://github.com/Asanchez90/landing-page",
         
     
   },
   {// listo
-    img: "/public/meme.png",
+    img: "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1682689024/Mythic_Dungeon_Etryh_iw1uos.png",
         titulo: "Torneo EDI",
         subtitulo: "Landing page",
         descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
@@ -59,10 +62,11 @@ export const projectsData =
             "public/icono-js-sin.png",
         ],
         link: "https://etryh.netlify.app/",
+        github:"https://github.com/Asanchez90/landing-page",
   },
   {
     //listo
-    img: "/public/meme.png",
+    img: "/public/Proyecto-flipper.png",
     titulo: "Proyecto Color Flipper",
     subtitulo: "Manejo conocimientos JS",
     descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
@@ -73,11 +77,12 @@ export const projectsData =
         "public/icono-js-sin.png", 
     ],
     link: "https://colorflipper-asp.netlify.app/",
+    github:"https://github.com/Asanchez90/ColorFlipper",
     
 },
   { //hacer este proyecto
-    img: "/public/meme.png",
-        titulo: "pokeapi",
+    img: "https://1000marcas.net/wp-content/uploads/2021/04/Futurama-Logo.png",
+        titulo: "Futurama api",
         subtitulo: "Información API REST",
         descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
         pudiendo implementar los cambios directamente en el HTML.
@@ -88,9 +93,10 @@ export const projectsData =
             "public/icono-js-sin.png", 
         ],
         link: "...",
+        github:"...",
   },
   { //listo
-    img: "/public/meme.png",
+    img: "/public/Death_Star-sin-fondo.png",
         titulo: "Star wars api",
         subtitulo: "Información API REST",
         descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
@@ -102,9 +108,8 @@ export const projectsData =
             "public/icono-js-sin.png", 
         ],
         link: "https://starwarsapiaps.netlify.app/",
+        github:"https://github.com/Asanchez90/starwarsapi",
   },
 
 ]
 
-// DESCARGAR ICONO DE HTML, CSS Y JS
-// HACER UNA CAPTURA DE PANTALLA DE UNA PREVIEW DE MIS proyectos

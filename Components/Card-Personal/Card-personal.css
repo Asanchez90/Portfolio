@@ -1,0 +1,105 @@
+.Tittle{
+    /* margin-top: 16px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 16px;
+    font-size: 48px;
+    
+ 
+}
+
+.container-personal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.foto-card-div{
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    object-fit: cover;  
+}
+.foto-card-personal{
+    border-radius: 30%;
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: cover;  
+}
+.info-texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;
+}
+.pregunta{
+font-size: 32px;
+
+}
+
+.respuesta{
+font-size: 16px;
+}
+
+
+/* ---------------------------------- */
+/* animacion entrada */
+@keyframes show {
+    from{
+        opacity: 0;
+        scale: 25%;
+    }
+    to {
+        opacity: 1;
+        scale: 100%;
+    }
+}
+
+img{
+    view-timeline-name: --revealing-image;
+
+        animation-name:show;
+        animation-fill-mode: both ;
+        animation-timeline: --revealing-image ;
+
+        animation-range: entry 25%;
+
+}
+
+
+/* ---------------------------------- */
+/* @media screen and (max-width: 1024px) {
+    .card-project {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card-left {
+        width: 100%;
+    }
+
+    .card-right {
+        width: 100%;
+    }
+    
+} */
+
+/* @media screen and (max-width: 768px) {
+    .img-project{
+        width: 200px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 620px) {
+   
+.foto-card-personal{
+    border-radius: 30%;
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: cover;  
+}
+    
+} */

@@ -13,14 +13,18 @@
   
   /* cambiar tamaños para ipad y ordenador  */
   main img {
-    border-radius: 50%;
-    max-width: 300px;
-    max-height: 300px;
+    /* border-radius: 50%; */
+    
     padding: 3px;
     object-fit: contain;
     
     
     background: var(--highlight-gracient);
+  }
+  .avatar{
+    max-width: 300px;
+    max-height: 300px;
+      border-radius: 50%;
   }
 
   .home  {

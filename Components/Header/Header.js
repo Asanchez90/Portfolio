@@ -18,7 +18,7 @@ export const Header = () => {
         <li>
           <a href="#" id="personal-link">Sobre mi</a>
         </li>
-        <button id="themeBtn">☀️</button>
+        <li><button id="themeBtn">☀️</button></li>
         </ul>
         </nav>
 `;
