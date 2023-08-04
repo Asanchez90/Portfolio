@@ -1,7 +1,7 @@
 export const infoPersonal = [
   {
     //REPASAR
-    Foto: '/public/about-gallery/aplastandome.jpeg',
+    Foto: 'https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691149366/portfolio/aplastandome_kzpkws.jpg',
     alt: 'imagen-Foto',
     pregunta:'Un poco sobre mi...',
     respuesta: ` Soy Alejandro, he tenido que pegar un giro de 180º en mi sector laboral por completo, de comisario de averías
@@ -10,7 +10,7 @@ export const infoPersonal = [
 
   {
     //listo
-    Foto: '/public/about-gallery/marine-surveyor.jpeg',
+    Foto: 'https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691149366/portfolio/marine-surveyor_t0lvpg.jpg',
     alt: 'imagen-Foto',
     pregunta:'¿Cual es tu formación?',
     respuesta: `En cuanto a mi formacion, soy Tecnico administrativo y financiero, 
@@ -23,7 +23,7 @@ export const infoPersonal = [
 
   {
     //listo
-    Foto: '/public/about-gallery/foto2.jpeg',
+    Foto: 'https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691149367/portfolio/foto2_ujmvj5.jpg',
     alt: 'imagen-Foto',
     pregunta:'¿Que te ha llevado a hacer un portfolio?',
     respuesta: `A finales del 2022 decicí emprender un cambio en el sector profesional y aprender 
@@ -39,7 +39,7 @@ export const infoPersonal = [
 
   {
     //CAMBIAR
-    Foto: '/public/about-gallery/Mario-yo.jpeg',
+    Foto: 'https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691149367/portfolio/Mario-yo_rxw0ly.jpg',
     alt: 'imagen-Foto',
     pregunta:'¿Como eres?',
     respuesta: ` En cuanto a mi personalidad me considero una persona optimista, creativa, resolutiva, adaptativa al entorno y

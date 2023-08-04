@@ -13,7 +13,7 @@ export const Home = () => {
       
     </div>
     <div>
-      <img class ="avatar"src="./public/foto-avatar.jpeg" alt="yo-idiota">
+      <img class ="avatar"src="https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691149324/portfolio/foto-avatar_thhdtr.jpg" alt="yo-idiota">
     </div>
   </section>
     

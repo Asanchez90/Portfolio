@@ -43,11 +43,11 @@ export const CardProyectos = (
         </div>       
         <div class="a-card"> 
           <a href=${link} target="_blank">
-          <img class="link-icon" src="/public/icons/enlace-roto(1).png" alt="icon-link" />
+          <img class="link-icon" src="https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/enlace-roto_1_mqgnp4.png" alt="icon-link" />
           Live preview</a>
           
           <a href=${github} target="_blank">
-          <img class="link-icon" src="/public/icons/lupa.png" alt="icon-github" />
+          <img class="link-icon" src="https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/lupa_hgdooa.png" alt="icon-github" />
           View code</a>
         </div>
       </div>
