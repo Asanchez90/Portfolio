@@ -23,6 +23,7 @@
   /* color */
   --primary-color-dark: #d9d9d9;
   --secundary-color-dark: #a7a7a7;
+  --terciary-color-dark: #ffffff;
 
   --primary-color-light: #42446e;
   --segundary-color-light: #666666;
@@ -66,7 +67,7 @@ body{
 
 main{
   min-height: calc((100vh - 5vh - 6vh) - 1rem);
-  border: solid 1px red;
+  /* border: solid 1px red; */
   display: flex;
   flex-wrap: wrap;
   align-items: center;

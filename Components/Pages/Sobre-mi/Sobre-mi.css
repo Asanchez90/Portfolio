@@ -1,0 +1,37 @@
+.mas-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.info-cv{
+    display: flex;
+    margin-bottom: 16px;
+    justify-content: space-around;
+    padding:16px;
+    gap: 32px;
+
+}
+
+.img-rrss {
+    
+    object-fit: cover;
+}
+.ul-rrss{
+    list-style: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.li-rrss{
+    width: 60px;
+    height: 60px;
+}
+
+.cv-personal{
+    color: var(--terciary-color-light);
+    width:fit-content;
+    padding: 6px;
+}

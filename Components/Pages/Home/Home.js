@@ -13,7 +13,7 @@ export const Home = () => {
       
     </div>
     <div>
-      <img class ="avatar"src="./public/icons/mongoleando.jpg" alt="yo-idiota">
+      <img class ="avatar"src="./public/foto-avatar.jpeg" alt="yo-idiota">
     </div>
   </section>
     

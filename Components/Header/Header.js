@@ -4,7 +4,7 @@ export const Header = () => {
   return `
 
     <nav>
-      <h2> Alejandro Sánchez </h2>
+      <h2> <span>Alejandro Sánchez</span> </h2>
       
      
 
@@ -25,13 +25,3 @@ export const Header = () => {
 };
 
 const template = Header();
-
-
-{/* 
-<label for="chkToggle" class="navbar-toggle" id="js-navbar-toggle">
-  <img class="menu-movil" src="./public/toggle-navbar-sin-fondo.png" alt="menu-movil" width="30px" height="30px">
-</label>
-
-<input type="checkbox" id="chkToggle"> 
-
-  */}

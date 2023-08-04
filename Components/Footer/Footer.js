@@ -6,9 +6,7 @@ export const Footer = () => {
     <nav class="nav-footer">
       
       <ul class="ul-footer">
-        <li>
-          <a href="#"> <p> +34666666666 </p> </a>
-        </li>
+        
         <li>
           <a href="#">alesp@gmail.com</a>
         </li>

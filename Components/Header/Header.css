@@ -1,8 +1,8 @@
 header{
-    /* border: 2px solid red; */
+   
     max-height: 5vh;
     margin-bottom: 16px;
-    /* margin-top: 16px; */
+
     
 }
 
@@ -43,40 +43,4 @@ header button {
   transform: scale(1.5);
 }
 
-/* hacer hamburguer */
 
-/* .main-nav {
-    display: flex;
-    margin-right: 30px;
-  
-  }
-  .logo {
-    display: flex;
-    justify-content: center;
-    
-  }
-
-  #chkToggle:checked + ul.main-nav {
-    display: flex;
-    
-  }
-
-  .main-nav li {
-    margin: 0;
-    nav-left: 40px;
-    align-items: center;
-    
-  }
-  .nav-links {
-    font-size: 12px;
-    
-  }
-
-  .logo {
-    margin-top: 0;
-  }
-
-  .navbar-toggle {
-    display: none;
-    
-  } */

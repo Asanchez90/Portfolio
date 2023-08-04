@@ -1,19 +1,16 @@
-//poner una lista de arrays con informacion mia
-
 export const infoPersonal = [
   {
     //REPASAR
-    Foto: '/public/icons/yo-mongolo.JPG',
+    Foto: '/public/about-gallery/aplastandome.jpeg',
     alt: 'imagen-Foto',
-    pregunta:'¿Y tu quien eres?',
-    respuesta: `Haciendo un breve repaso de mi vida para que me podais conocer algo mejor,
-        soy una persona....  
-        `,
+    pregunta:'Un poco sobre mi...',
+    respuesta: ` Soy Alejandro, he tenido que pegar un giro de 180º en mi sector laboral por completo, de comisario de averías
+     a desarrollador web. por razones obvia... empezaba a sentir como me aplastaba el trabajo....`,
   },
 
   {
     //listo
-    Foto: '/public/marine-surveyor.jpeg',
+    Foto: '/public/about-gallery/marine-surveyor.jpeg',
     alt: 'imagen-Foto',
     pregunta:'¿Cual es tu formación?',
     respuesta: `En cuanto a mi formacion, soy Tecnico administrativo y financiero, 
@@ -26,7 +23,7 @@ export const infoPersonal = [
 
   {
     //listo
-    Foto: '/public/icons/yo-mongolo.JPG',
+    Foto: '/public/about-gallery/foto2.jpeg',
     alt: 'imagen-Foto',
     pregunta:'¿Que te ha llevado a hacer un portfolio?',
     respuesta: `A finales del 2022 decicí emprender un cambio en el sector profesional y aprender 
@@ -34,7 +31,7 @@ export const infoPersonal = [
         motivacion para hacer este gran cambio ha sido el desarrollar una app y una spwa para la empresa 
         en la que estaba trabajando, además de solventar problemas/tiempo de comunicación con el cliente final.
         Estoy emocionado por lo que el futuro me depara en este campo, y estoy comprometido a seguir creciendo e
-         investigando sobre nuevas tecnologías para mejorar en mi carrera como desarrollador 
+        investigando sobre nuevas tecnologías para mejorar en mi carrera como desarrollador 
         FullStack Junior.
 
         `,
@@ -42,12 +39,12 @@ export const infoPersonal = [
 
   {
     //CAMBIAR
-    Foto: '/public/Mario-yo.jpeg',
+    Foto: '/public/about-gallery/Mario-yo.jpeg',
     alt: 'imagen-Foto',
     pregunta:'¿Como eres?',
-    respuesta: ` En cuanto a mi personalidad me considero una puta cabra 
-    y autista en mi vida privada, asi que necesito cobrar muchos cheles para el psicologo 
-    ¡que no se paga solo! 
+    respuesta: ` En cuanto a mi personalidad me considero una persona optimista, creativa, resolutiva, adaptativa al entorno y
+    condiciones de trabajo, capacidad de trabajo en equipo, involucrado con los proyectos...
+
 
         `,
   },

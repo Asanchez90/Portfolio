@@ -21,7 +21,7 @@
     object-fit: cover;  
 }
 .foto-card-personal{
-    border-radius: 30%;
+    border-radius: 10%;
     max-width: 300px;
     max-height: 300px;
     object-fit: cover;  
@@ -33,6 +33,12 @@
     align-items: center;
     gap: 16px;
     padding: 16px;
+    border-bottom: 2px solid var(--terciary-color-dark);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+
+    
 }
 .pregunta{
 font-size: 32px;
@@ -42,6 +48,7 @@ font-size: 32px;
 .respuesta{
 font-size: 16px;
 }
+
 
 
 /* ---------------------------------- */
