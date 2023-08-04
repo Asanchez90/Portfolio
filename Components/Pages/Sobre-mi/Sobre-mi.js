@@ -21,7 +21,7 @@ export const SobreMi = () => {
     <div class="info-cv">
       <p> Si quieres saber mas sobre mi, aqui te dejo mi CV</p>
       <button class="cv-personal">
-          <a href="https://res.cloudinary.com/dcs7ntcz7/raw/upload/v1691143697/pdf/CV_Alejandro_qpyt4l.pages"> Descargar CV </a>
+          <a href="https://res.cloudinary.com/dcs7ntcz7/raw/upload/v1691170692/pdf/CV_Alejandro_j32pln.docx"> Descargar CV </a>
       </button>
     </div> 
 
