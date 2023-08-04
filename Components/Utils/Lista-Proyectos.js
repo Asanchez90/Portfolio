@@ -14,8 +14,8 @@ export const projectsData =
             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-html_vtwlnj.png", 
             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-css_qjxzjf.png"
         ],
-        // link: "https://mecataller.netlify.app/",
-        // github:"https://github.com/Asanchez90/landing-page",
+        link: "https://mecataller.netlify.app/",
+        github:"https://github.com/Asanchez90/landing-page",
         
     
   },

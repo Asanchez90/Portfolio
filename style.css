@@ -17,7 +17,7 @@
 
   /* background-color */
   --rc--bg-color-dark: #191919;
-  --rc--bg-color-light: rgb(202, 196, 196);
+  --rc--bg-color-light: rgba(243, 88, 4, 0.28);
   --rc--bg-color-higlight: rgb(2,0,36);
 
   /* color */
