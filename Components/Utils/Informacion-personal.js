@@ -16,7 +16,7 @@ export const infoPersonal = [
     respuesta: `En cuanto a mi formacion, soy Tecnico administrativo y financiero, 
         Comisario de averías titulado por el Colegio de Oficiales de la Marina Mercante. 
         La combinacion de estos estudios me han permitido trabajar y colaborar con distintos 
-        gabinetes de deferentes aseguradoras a nivel nacional e internacional, asi como trabajar
+        gabinetes de diferentes aseguradoras a nivel nacional e internacional, asi como trabajar
         con las principales navieras lideres en el sector naval.  
         `,
   },
