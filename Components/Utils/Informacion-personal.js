@@ -5,7 +5,7 @@ export const infoPersonal = [
     alt: 'imagen-Foto',
     pregunta:'Un poco sobre mi...',
     respuesta: ` Soy Alejandro, he tenido que dar un giro de 180º en mi sector laboral por completo, de comisario de averías
-     a desarrollador web. por razones obvia, empezaba a sentir como me aplastaba el trabajo....`,
+     a desarrollador web por razones obvia, empezaba a sentir como me aplastaba el trabajo....`,
   },
 
   {
