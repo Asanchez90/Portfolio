@@ -28,7 +28,7 @@ export const infoPersonal = [
     pregunta:'¿Que te ha llevado a hacer un portfolio?',
     respuesta: `A finales del 2022 decidí emprender un cambio en el sector profesional y aprender 
     una nueva profesión de desarrollador FullStack Junior en The Power Business School. Mi principal 
-    motivación para hacer este gran cambio ha sido el desarrollar una app y una spwa para la empresa 
+    motivación para hacer este gran cambio ha sido el desarrollar una app para la empresa 
     en la que estaba trabajando, además de solventar problemas, gestion de los tiempos de comunicación con el cliente final.
     Estoy emocionado por lo que el futuro me depara en este campo, y estoy comprometido a seguir creciendo e
     investigando sobre nuevas tecnologías para mejorar en mi carrera como desarrollador 
