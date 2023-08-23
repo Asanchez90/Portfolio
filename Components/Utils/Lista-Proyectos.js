@@ -50,7 +50,7 @@ export const projectsData =
     
   },
   {// listo
-    img: "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1682689024/Mythic_Dungeon_Etryh_iw1uos.png",
+    img: "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1682689024/Etryh/Mythic_Dungeon_Etryh_iw1uos.png",
         titulo: "Torneo EDI",
         subtitulo: "Landing page",
         descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
