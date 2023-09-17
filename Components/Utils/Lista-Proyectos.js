@@ -111,18 +111,18 @@ export const projectsData =
         github:"https://github.com/Asanchez90/starwarsapi",
   },
   { //listo
-    img: "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1694865803/GOT/Fondo_de_casas-got_n1ycrd.png",
+    img: "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1694927496/GOT/pngegg_fvh6go.png",
         titulo: "Game of Trhone api",
         subtitulo: "Información API REST",
         descripcion: `Para este proyecto, comencé a implementar conocimientos de React. Me he basado en una Api de 'Game of Throne' para reprensar las cartas 
-        y sus fotografias de cada personaje. ,
+        y sus fotografias de cada personaje. 
         
         `,
         tecnologia: [
             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-html_vtwlnj.png", 
             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-css_qjxzjf.png",
             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-js-sin_cezblz.png", 
-            "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1694865212/portfolio/iconos/React_Native_Logo_kzxr65.png", 
+            "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1694927639/portfolio/iconos/react_con_fondo_dbnagl.png", 
         ],
         link: "https://got-api-asp.netlify.app/",
         github:"https://github.com/Asanchez90/GOT-api",
