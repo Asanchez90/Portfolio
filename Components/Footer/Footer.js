@@ -8,7 +8,7 @@ export const Footer = () => {
       <ul class="ul-footer">
         
         <li>
-          <a href="mailto: alesp@gmail.com" rel="noopener"> Mas info 📩 </a>
+          <a href="" rel="noopener"> Mas info 📩 </a>
         </li>
         <li>
           <p>Designed and built by Alejandro Sánchez para <span> Rock{the Code} </span> </p>

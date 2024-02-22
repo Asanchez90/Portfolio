@@ -17,14 +17,7 @@ export const SobreMi = () => {
             })
             .join('')}
         </article>
-  <article class="mas-info">      
-    <div class="info-cv">
-      <p> Si quieres saber mas sobre mí, aqui te dejo mi CV</p>
-      <button class="cv-personal">
-          <a href="https://res.cloudinary.com/dcs7ntcz7/raw/upload/v1691170692/pdf/CV_Alejandro_j32pln.docx"> Descargar CV </a>
-      </button>
-    </div> 
-
+  
    
 
   </section>
@@ -36,4 +29,11 @@ const template = SobreMi();
 
 // ----------------------------------REVISAR  --------------------------------
 
-
+//  quitar de mi cv
+{/* <article class="mas-info">      
+    <div class="info-cv">
+      <p> Si quieres saber mas sobre mí, aqui te dejo mi CV</p>
+      <button class="cv-personal">
+          <a href="https://res.cloudinary.com/dcs7ntcz7/raw/upload/v1691170692/pdf/CV_Alejandro_j32pln.docx"> Descargar CV </a>
+      </button>
+    </div>  */}

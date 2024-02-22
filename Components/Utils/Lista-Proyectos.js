@@ -55,7 +55,7 @@ export const projectsData =
         subtitulo: "Landing page",
         descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
         pudiendo implementar los cambios directamente en el HTML.
-        Cabe destacar que en este proyecto fue realizado en menos de una semana a fecha del torneo de streamers celebrado en la plataforma Twitch`,
+        Cabe destacar que en este proyecto fue realizado en menos de una semana a fecha del torneo de streamers celebrado en la plataforma Twitch el 28/04/2023`,
         tecnologia: [
             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-html_vtwlnj.png", 
             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-css_qjxzjf.png",
@@ -80,21 +80,21 @@ export const projectsData =
     github:"https://github.com/Asanchez90/ColorFlipper",
     
 },
-  { //hacer este proyecto
-    img: "https://1000marcas.net/wp-content/uploads/2021/04/Futurama-Logo.png",
-        titulo: "Futurama api (en construction)",
-        subtitulo: "Información API REST",
-        descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
-        pudiendo implementar los cambios directamente en el HTML.
-        Cabe destacar que en este proyecto fue....`,
-        tecnologia: [
-            "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-html_vtwlnj.png", 
-            "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-css_qjxzjf.png",
-            "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-js-sin_cezblz.png", 
-        ],
-        link: "...",
-        github:"...",
-  },
+//   { //hacer este proyecto
+//     img: "https://1000marcas.net/wp-content/uploads/2021/04/Futurama-Logo.png",
+//         titulo: "Futurama api (en construction)",
+//         subtitulo: "Información API REST",
+//         descripcion: `Para este proyecto, comencé a implementar conocimientos de JavaScript. Pude comenzar a prácticar algunos tipos de eventos,
+//         pudiendo implementar los cambios directamente en el HTML.
+//         Cabe destacar que en este proyecto fue....`,
+//         tecnologia: [
+//             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-html_vtwlnj.png", 
+//             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-css_qjxzjf.png",
+//             "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691148974/portfolio/iconos/icono-js-sin_cezblz.png", 
+//         ],
+//         link: "...",
+//         github:"...",
+//   },
   { //listo
     img: "https://res.cloudinary.com/dcs7ntcz7/image/upload/v1691149237/portfolio/proyectos/Death_Star-sin-fondo_cejxa6.png",
         titulo: "Star wars api",
