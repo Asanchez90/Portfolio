@@ -4,7 +4,7 @@ import { Footer } from "./Components/Footer/Footer"
 // paginas
 import { Home } from "./Components/Pages/Home/Home"
 import { Project } from './Components/Pages/Proyectos/Proyectos'
-import { SobreMi } from "./Components/Pages/Sobre-mi/Sobre-mi.js"
+// import { SobreMi } from "./Components/Pages/Sobre-mi/Sobre-mi.js"
 
 
 //Funcionalidad
@@ -38,7 +38,8 @@ document.querySelector("#proyectos-link").addEventListener("click", () => {
     Project();
 });
 
-document.querySelector("#personal-link").addEventListener("click", () => {
-    SobreMi();
-});
+// document.querySelector("#personal-link").addEventListener("click", () => {
+//     SobreMi();
+// });
 
+//! comentado lineas 41 y 7, modificarlo
